@@ -1,0 +1,22 @@
+{
+  "name": "mnogokotyatok",
+  "version": "1.0.0",
+  "description": "Kittens!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emedvedev/mnogokotyatok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emedvedev/mnogokotyatok/issues"
+  },
+  "homepage": "https://github.com/emedvedev/mnogokotyatok#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
